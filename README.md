@@ -151,15 +151,20 @@ The landing page features an immersive, scroll-driven cinematic experience showc
 | NeuroScan AI — Brain Tumor Analysis | RetinaScan AI — Retinopathy Analysis |
 |:---:|:---:|
 | (![WhatsApp Image 2026-04-01 at 00 38 51](https://github.com/user-attachments/assets/114c84d5-ab9f-4148-86d4-052fe847e36a)
-) | ![RetinaScan AI Module](assets/homepage_retinascan.jpg) |
+ | ![RetinaScan AI Module](![WhatsApp Image 2026-04-01 at 00 38 51 (1)](https://github.com/user-attachments/assets/6ef756de-9565-4610-a613-f843f15ffd28)
+ |
 
 | Fracture AI — Skeletal Analysis | CardiacScan AI — ECG Analysis |
 |:---:|:---:|
-| ![Fracture AI Module](assets/homepage_fractureai.jpg) | ![CardiacScan AI Module](assets/homepage_cardiacscan.jpg) |
+| ![Fracture AI Module](![WhatsApp Image 2026-04-01 at 00 38 51 (2)](https://github.com/user-attachments/assets/b96469ac-dfab-49ab-b79f-a200905a7b4b)
+ | ![CardiacScan AI Module](![WhatsApp Image 2026-04-01 at 00 38 52](https://github.com/user-attachments/assets/a00d12bb-4c06-4c57-a2b1-bea05d4c0cfc)
+ |
 
 | PulmoScan AI — Lung Analysis | DermScan AI — Skin Lesion Analysis |
 |:---:|:---:|
-| ![PulmoScan AI Module](assets/homepage_pulmoscan.jpg) | ![DermScan AI Module](assets/homepage_dermscan.jpg) |
+| ![PulmoScan AI Module](![WhatsApp Image 2026-04-01 at 00 38 52 (1)](https://github.com/user-attachments/assets/855715df-294c-4ec1-b443-185e3198ca09)
+ | ![DermScan AI Module](![WhatsApp Image 2026-04-01 at 00 38 52 (2)](https://github.com/user-attachments/assets/5abb181a-ccb6-4fe1-bc1a-4571d1a12207)
+ |
 
 </div>
 

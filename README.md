@@ -140,38 +140,29 @@ Image enhancement using **CLAHE**, **Retinex**, **Jet Colormap**, brightness adj
 
 ---
 
-## 🖼️ Platform Preview
+## 🖼️ Platform Screenshots
 
-### 🧠 Brain Tumor Detection
-![Brain](https://github.com/user-attachments/assets/c6c47342-dc79-4a4d-88e6-b2b99e70ace0)
+### 🏠 Homepage — AI Module Showcase
 
----
+The landing page features an immersive, scroll-driven cinematic experience showcasing each diagnostic module with premium visual design.
 
-### 🫁 Lung Analysis
-![Lung](https://github.com/user-attachments/assets/611b742a-81e1-4555-9388-8f49335cafba)
+<div align="center">
 
----
+| NeuroScan AI — Brain Tumor Analysis | RetinaScan AI — Retinopathy Analysis |
+|:---:|:---:|
+| ![NeuroScan AI Module](assets/homepage_neuroscan.jpg) | ![RetinaScan AI Module](assets/homepage_retinascan.jpg) |
 
-### ❤️ ECG Analysis
-![ECG](https://github.com/user-attachments/assets/ef3f6a65-d4ef-40ac-bf22-5b6a7a31f241)
+| Fracture AI — Skeletal Analysis | CardiacScan AI — ECG Analysis |
+|:---:|:---:|
+| ![Fracture AI Module](assets/homepage_fractureai.jpg) | ![CardiacScan AI Module](assets/homepage_cardiacscan.jpg) |
 
----
+| PulmoScan AI — Lung Analysis | DermScan AI — Skin Lesion Analysis |
+|:---:|:---:|
+| ![PulmoScan AI Module](assets/homepage_pulmoscan.jpg) | ![DermScan AI Module](assets/homepage_dermscan.jpg) |
 
-### 🦴 Fracture Detection
-![Fracture](https://github.com/user-attachments/assets/d729f528-30f6-424b-a7ad-2af62a947817)
-
----
-
-### 👁️ Retinopathy Detection
-![Retina](https://github.com/user-attachments/assets/0ae45d75-c782-4168-881f-4ae43b71876f)
+</div>
 
 ---
-
-### 🧴 Skin Lesion Analysis
-![Skin](https://github.com/user-attachments/assets/c728f9de-d368-4fa2-a83d-cbc5063e6901)
-
----
-
 
 ### 📋 Case Creation & Detection Interface
 
@@ -179,7 +170,7 @@ Doctors create cases by selecting the diagnostic type, disease category, and upl
 
 <div align="center">
 
-![Case Creation Interface](<img width="1600" height="1316" alt="Image" src="https://github.com/user-attachments/assets/a60bbc66-d15e-4b59-8403-61af7ce8f738" />)
+![Case Creation Interface](assets/detect_case_creation.jpg)
 
 </div>
 
@@ -193,12 +184,11 @@ Standard analysis provides CNN-based fracture detection with confidence scores, 
 
 | Standard Analysis | Smart Auto-Detection (YOLO) |
 |:---:|:---:|
-| ![Fracture Standard Analysis](<img width="1600" height="1165" alt="Image" src="https://github.com/user-attachments/assets/7359444c-e62a-484d-bf2e-c99270a9756c" />) | 
+| ![Fracture Standard Analysis](assets/results_fracture_standard.jpg) | ![Fracture Smart Detection](assets/results_fracture_smart.jpg) |
 
 | Advanced Analysis — Enhancement Filters |
 |:---:|
-| ![Fracture Advanced Analysis](<img width="1600" height="1456" alt="Image" src="https://github.com/user-attachments/assets/2f2af8ff-1277-4106-9662-5e9eaa90512b" />
-) |
+| ![Fracture Advanced Analysis](assets/results_fracture_advanced.jpg) |
 
 </div>
 
@@ -212,8 +202,7 @@ Deep analysis provides tumor segmentation overlays, AI heatmaps for attention vi
 
 | Standard Analysis — GradCAM | Deep Analysis — Segmentation + Heatmap |
 |:---:|:---:|
-| ![Brain Standard Analysis](<img width="1600" height="1347" alt="Image" src="https://github.com/user-attachments/assets/c6c47342-dc79-4a4d-88e6-b2b99e70ace0" />) | ![Brain Deep Analysis](
-<img width="1600" height="1387" alt="Image" src="https://github.com/user-attachments/assets/876cbd9a-4b3d-4f6b-8738-aca71ca32a25" />) |
+| ![Brain Standard Analysis](assets/results_brain_standard.jpg) | ![Brain Deep Analysis](assets/results_brain_deep.jpg) |
 
 </div>
 
@@ -225,8 +214,7 @@ Retinal analysis includes vessel segmentation, lesion mapping, diabetic retinopa
 
 <div align="center">
 
-![Retinopathy Analysis Results](
-<img width="1600" height="1171" alt="Image" src="https://github.com/user-attachments/assets/0ae45d75-c782-4168-881f-4ae43b71876f" />)
+![Retinopathy Analysis Results](assets/results_retinopathy.jpg)
 
 </div>
 
@@ -238,8 +226,7 @@ ECG analysis supports both image-based and raw signal (TXT) input. Results inclu
 
 <div align="center">
 
-![ECG Analysis Results](<img width="1600" height="1362" alt="Image" src="https://github.com/user-attachments/assets/ef3f6a65-d4ef-40ac-bf22-5b6a7a31f241" />
-)
+![ECG Analysis Results](assets/results_ecg.jpg)
 
 </div>
 
@@ -390,6 +377,8 @@ MIT License · Copyright (c) 2026 Vian Shah
 
 **Vian Shah**
 **Pearl Mehta**
+**Vrusha**
+**Aryan**
 
 ---
 

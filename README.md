@@ -151,18 +151,15 @@ The landing page features an immersive, scroll-driven cinematic experience showc
 | NeuroScan AI — Brain Tumor Analysis | RetinaScan AI — Retinopathy Analysis |
 |:---:|:---:|
 | ![NeuroScan AI Module](<img width="1600" height="884" alt="Image" src="https://github.com/user-attachments/assets/59fb547d-6085-4b5e-aa23-d158e6730137" />
-) | ![RetinaScan AI Module](<img width="1600" height="847" alt="Image" src="https://github.com/user-attachments/assets/f108a296-c8be-451d-b252-6e3497a0f3fc" />
-) |
+) | ![RetinaScan AI Module](<img width="1600" height="847" alt="Image" src="https://github.com/user-attachments/assets/f108a296-c8be-451d-b252-6e3497a0f3fc" />) |
 
 | Fracture AI — Skeletal Analysis | CardiacScan AI — ECG Analysis |
 |:---:|:---:|
-| ![Fracture AI Module](<img width="1600" height="825" alt="Image" src="https://github.com/user-attachments/assets/d729f528-30f6-424b-a7ad-2af62a947817" />
-) | ![CardiacScan AI Module](<img width="1600" height="746" alt="Image" src="https://github.com/user-attachments/assets/4ebc29b8-3355-40f0-aa33-85827a0c1b77" />) |
+| ![Fracture AI Module](<img width="1600" height="825" alt="Image" src="https://github.com/user-attachments/assets/d729f528-30f6-424b-a7ad-2af62a947817" />) | ![CardiacScan AI Module](<img width="1600" height="746" alt="Image" src="https://github.com/user-attachments/assets/4ebc29b8-3355-40f0-aa33-85827a0c1b77" />) |
 
 | PulmoScan AI — Lung Analysis | DermScan AI — Skin Lesion Analysis |
 |:---:|:---:|
-| ![PulmoScan AI Module](<img width="1600" height="623" alt="Image" src="https://github.com/user-attachments/assets/611b742a-81e1-4555-9388-8f49335cafba" />
-) | ![DermScan AI Module](<img width="1600" height="685" alt="Image" src="https://github.com/user-attachments/assets/c728f9de-d368-4fa2-a83d-cbc5063e6901" />) |
+| ![PulmoScan AI Module](<img width="1600" height="623" alt="Image" src="https://github.com/user-attachments/assets/611b742a-81e1-4555-9388-8f49335cafba" />) | ![DermScan AI Module](<img width="1600" height="685" alt="Image" src="https://github.com/user-attachments/assets/c728f9de-d368-4fa2-a83d-cbc5063e6901" />) |
 
 </div>
 

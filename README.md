@@ -212,16 +212,12 @@ Standard analysis provides CNN-based fracture detection with confidence scores, 
 <div align="center">
 
 <b>Standard Analysis</b><br>
-<img src="https://github.com/user-attachments/assets/7b026a81-363a-4343-a642-7fdc51ce1668
-" width="70%"><br><br>
+<img src="https://github.com/user-attachments/assets/7b026a81-363a-4343-a642-7fdc51ce1668" width="70%"><br><br>
 
 <b>Smart Auto-Detection (YOLO)</b><br>
-<img src="https://github.com/user-attachments/assets/9d3ee13e-be7d-47d9-b073-dcb571376227
-" width="70%"><br><br>
+<img src="https://github.com/user-attachments/assets/9d3ee13e-be7d-47d9-b073-dcb571376227" width="70%"><br><br>
 
-
-
-</div>>
+</div>
 
 ---
 
@@ -232,12 +228,10 @@ Deep analysis provides tumor segmentation overlays, AI heatmaps for attention vi
 <div align="center">
 
 <b>Standard Analysis — GradCAM</b><br>
-<img src="https://github.com/user-attachments/assets/5ef1fd9b-6497-4a8b-94e7-71ae6df17083
-" width="70%"><br><br>
+<img src="https://github.com/user-attachments/assets/5ef1fd9b-6497-4a8b-94e7-71ae6df17083" width="70%"><br><br>
 
 <b>Deep Analysis — Segmentation + Heatmap</b><br>
-<img src="https://github.com/user-attachments/assets/ab7a7c4f-bc19-4886-9745-ae001afb8b3c
-" width="70%"><br><br>
+<img src="https://github.com/user-attachments/assets/ab7a7c4f-bc19-4886-9745-ae001afb8b3c" width="70%"><br><br>
 
 </div>
 

@@ -152,48 +152,42 @@ The landing page features an immersive, scroll-driven cinematic experience showc
 <tr>
 <td align="center">
 <b>NeuroScan AI — Brain Tumor Analysis</b><br>
-<img src="![WhatsApp Image 2026-04-01 at 00 38 51](https://github.com/user-attachments/assets/d58d4b0a-2f75-4d43-9d49-7ded8a705ec9)
-" width="350"/>
+<img src="https://github.com/user-attachments/assets/d58d4b0a-2f75-4d43-9d49-7ded8a705ec9" width="350"/>
 </td>
 
 <td align="center">
 <b>RetinaScan AI — Retinopathy Analysis</b><br>
-<img src="![WhatsApp Image 2026-04-01 at 00 38 51 (1)](https://github.com/user-attachments/assets/ad1abfe3-17af-4f6c-ae9a-77fc78f4ecbe)
-" width="350"/>
+<img src="https://github.com/user-attachments/assets/ad1abfe3-17af-4f6c-ae9a-77fc78f4ecbe" width="350"/>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Fracture AI — Skeletal Analysis</b><br>
-<img src="![WhatsApp Image 2026-04-01 at 00 38 51 (2)](https://github.com/user-attachments/assets/f832a0a5-2ab3-4a47-94af-52e55e224f8f)
-" width="350"/>
+<img src="https://github.com/user-attachments/assets/f832a0a5-2ab3-4a47-94af-52e55e224f8f" width="350"/>
 </td>
 
 <td align="center">
 <b>CardiacScan AI — ECG Analysis</b><br>
-<img src="![WhatsApp Image 2026-04-01 at 00 38 52](https://github.com/user-attachments/assets/6dd7ef16-b51d-4c1a-9781-54d2644c18f2)
-" width="350"/>
+<img src="https://github.com/user-attachments/assets/6dd7ef16-b51d-4c1a-9781-54d2644c18f2" width="350"/>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>PulmoScan AI — Lung Analysis</b><br>
-<img src="![WhatsApp Image 2026-04-01 at 00 38 52 (1)](https://github.com/user-attachments/assets/317049f3-542f-4069-ba04-c1fbe1c88603)
-" width="350"/>
+<img src="https://github.com/user-attachments/assets/317049f3-542f-4069-ba04-c1fbe1c88603" width="350"/>
 </td>
 
 <td align="center">
 <b>DermScan AI — Skin Lesion Analysis</b><br>
-<img src="![WhatsApp Image 2026-04-01 at 00 38 52 (2)](https://github.com/user-attachments/assets/6ec30a07-107c-4ed5-97ee-d9a5704711aa)
-" width="350"/>
+<img src="https://github.com/user-attachments/assets/6ec30a07-107c-4ed5-97ee-d9a5704711aa" width="350"/>
 </td>
 </tr>
 
 </table>
 
-</div>>
+</div>
 
 ---
 

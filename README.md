@@ -290,7 +290,7 @@ ECG analysis supports both image-based and raw signal (TXT) input. Results inclu
 │  └──────────────────────────────┬───────────────────────────────────┘   │
 │                                 │ Internal API                          │
 │  ┌──────────────────────────────▼───────────────────────────────────┐   │
-│  │           AI ENGINE — Atlas Inference Service (FastAPI)          │   │
+│  │           AI ENGINE (FastAPI)                                    │   │
 │  │                                                                  │   │
 │  │  ┌────────────────┐  ┌──────────────┐  ┌────────────────────┐   │   │
 │  │  │ Model Registry │  │   GradCAM    │  │  Unified Checkpoint│   │   │
@@ -316,9 +316,6 @@ Doctor creates case ──▶ Selects modality ──▶ Uploads scan/signal
                                                       │
                                                       ▼
                                               Unified Medical API
-                                                      │
-                                                      ▼
-                                            Atlas Inference Service
                                                       │
                                     ┌─────────────────┼─────────────────┐
                                     ▼                 ▼                 ▼

@@ -151,7 +151,9 @@ The landing page features an immersive, scroll-driven cinematic experience showc
 | NeuroScan AI — Brain Tumor Analysis | RetinaScan AI — Retinopathy Analysis |
 |:---:|:---:|
 | (![WhatsApp Image 2026-04-01 at 00 38 51](https://github.com/user-attachments/assets/114c84d5-ab9f-4148-86d4-052fe847e36a)
- | ![RetinaScan AI Module](![WhatsApp Image 2026-04-01 at 00 38 51 (1)](https://github.com/user-attachments/assets/6ef756de-9565-4610-a613-f843f15ffd28)
+ | 
+  RetinaScan AI — Retinopathy Analysis |
+|:---:|:---:|(![WhatsApp Image 2026-04-01 at 00 38 51 (1)](https://github.com/user-attachments/assets/6ef756de-9565-4610-a613-f843f15ffd28)
  |
 
 | Fracture AI — Skeletal Analysis | CardiacScan AI — ECG Analysis |

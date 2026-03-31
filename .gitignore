@@ -1,0 +1,21 @@
+@"
+# Ignore model files
+*.pth
+*.pt
+
+# Ignore large ML files
+*.onnx
+*.h5
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+"@ > .gitignore
